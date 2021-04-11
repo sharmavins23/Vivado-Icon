@@ -7,6 +7,10 @@ Vivado icon. The icon can be spun by hovering.
 
 ¯\\\_(ツ)\_/¯
 
+## Credits
+
+Credits to [BlackIsDevin](https://github.com/BlackIsDevin) for the SVG.
+
 # License TL;DR
 
 This project is distributed under the MIT license. This is a paraphrasing of a

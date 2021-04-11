@@ -17,6 +17,6 @@ img {
 }
 
 img:hover {
-    transform: rotate(360deg);
+    transform: rotate(720deg);
     transform-origin: center;
 }

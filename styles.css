@@ -1,5 +1,7 @@
 :root {
-    /* Unused for now */
+    --color1: #dcde57;
+    --color2: #8a8f35;
+    --color3: #e5e891;
 }
 
 body {
@@ -12,11 +14,25 @@ h1 {
         "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
-img {
+svg {
     transition: all 1s ease;
+    width: 25%;
 }
 
-img:hover {
+.cls-1 {
+    fill: var(--color1);
+}
+.cls-2 {
+    fill: var(--color2);
+}
+.cls-3 {
+    fill: var(--color3);
+}
+.cls-4 {
+    fill: none;
+}
+
+svg:hover {
     transform: rotate(720deg);
     transform-origin: center;
 }

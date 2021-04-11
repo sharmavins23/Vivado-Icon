@@ -1,0 +1,22 @@
+:root {
+    /* Unused for now */
+}
+
+body {
+    display: grid;
+    place-items: center;
+}
+
+h1 {
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+        "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+img {
+    transition: all 1s ease;
+}
+
+img:hover {
+    transform: rotate(360deg);
+    transform-origin: center;
+}
